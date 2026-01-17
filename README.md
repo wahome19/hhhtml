@@ -10,10 +10,10 @@
     <p>Course:Bachelor of Information Technology</p>
     <h3>Units This Semester</h3>
     <table>
-        <td>Web Design</td>
-        <td>Data Communication</td>
-        <td>Database Systems</td>
-        <td>Operating Systems</td>
+        <tr>Web Design</tr>
+        <tr>Data Communication</tr>
+        <tr>Database Systems</tr>
+        <tr>Operating Systems</tr>
     </table>
 </body>
 </html>
