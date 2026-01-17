@@ -9,9 +9,11 @@
     <p>Registration Number: CT203/125634/2025</p>
     <p>Course:Bachelor of Information Technology</p>
     <h3>Units This Semester</h3>
-        <br>Web Design</br>
-        <br>Data Communication</br>
-        <br>Database Systems</br>
-        <br>Operating Systems</br>
+    <table>
+        <td>Web Design</td>
+        <td>Data Communication</td>
+        <td>Database Systems</td>
+        <td>Operating Systems</td>
+    </table>
 </body>
 </html>
