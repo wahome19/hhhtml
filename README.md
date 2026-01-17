@@ -11,7 +11,12 @@
     <h3>Units This Semester</h3>
     <table>
         <tr>
+            <td>Units</td>
+            <td>Code</td>
+        </tr>
+        <tr>
         <td>Web Design</td>
+            <td>SMA 2033</td>
         <td>Data Communication</td>
         </tr>
         <tr>
