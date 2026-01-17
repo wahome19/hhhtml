@@ -16,12 +16,19 @@
         </tr>
         <tr>
         <td>Web Design</td>
-            <td>SMA 2033</td>
+          <td>SMA 2033</td>
+        </tr>
+            <tr>
         <td>Data Communication</td>
+                <td>BFB 4567</td>
         </tr>
         <tr>
         <td>Database Systems</td>
-        <td>Operating Systems</td>
+            <td> CCU 5467</td>
+        </tr>
+        <tr>
+            <td>Operating Systems</td>
+            <td>SSK 3456</td>
         </tr>
     </table>
 </body>
