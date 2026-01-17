@@ -9,11 +9,9 @@
     <p>Registration Number: ABC/1234/2025</p>
     <p>Course:Bachelor of Information Technology</p>
     <h3>Units This Semester</h3>
-    <ul>
         <li>Web Design</li>
         <li>Data Communication</li>
         <li>Database Systems</li>
         <li>Operating Systems</li>
-    </ul>
 </body>
 </html>
