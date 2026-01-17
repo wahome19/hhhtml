@@ -11,8 +11,8 @@
     <h3>Units This Semester</h3>
     <table>
         <tr>
-            <td>Units</td>
-            <td>Code</td>
+            <td><b>Units</b></td>
+            <td><b>Code</b></td>
         </tr>
         <tr>
         <td>Web Design</td>
