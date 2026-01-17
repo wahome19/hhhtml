@@ -5,9 +5,9 @@
 <body>
     <h1>University of Example</h1>
     <h2>Department of Computer Science</h2>
-    <p><strong>Name:</strong> Wahome</p>
-    <p><strong>Registration Number:</strong> ABC/1234/2025</p>
-    <p><strong>Course:</strong> Bachelor of Information Technology</p>
+    <p>Name: Wahome</p>
+    <p>Registration Number: ABC/1234/2025</p>
+    <p>Course:Bachelor of Information Technology</p>
     <h3>Units This Semester</h3>
     <ul>
         <li>Web Design</li>
